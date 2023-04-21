@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=jRWR0Ob6mLI
+name1.%(ext)s
+running command
+[youtube] jRWR0Ob6mLI: Downloading webpage
+WARNING: unable to extract uploader id; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+[download] Destination: name1.m4a
+[download]   0.6% of 160.21KiB at  8.24KiB/s ETA 00:19[download]   1.9% of 160.21KiB at 24.68KiB/s ETA 00:06[download]   4.4% of 160.21KiB at 57.48KiB/s ETA 00:02[download]   9.4% of 160.21KiB at 123.00KiB/s ETA 00:01[download]  19.3% of 160.21KiB at 100.64KiB/s ETA 00:01[download]  39.3% of 160.21KiB at 87.83KiB/s ETA 00:01[download]  79.3% of 160.21KiB at 82.21KiB/s ETA 00:00[download] 100.0% of 160.21KiB at 83.70KiB/s ETA 00:00[download] 100% of 160.21KiB in 00:01
+[ffmpeg] Correcting container in "name1.m4a"
+[ffmpeg] Destination: name1.mp3
+Deleting original file name1.m4a (pass -k to keep)
+https://www.youtube.com/watch?v=L5CV53wCWO0
+name2.%(ext)s
+running command
+[youtube] L5CV53wCWO0: Downloading webpage
+WARNING: unable to extract uploader id; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+[download] Destination: name2.webm
+[download]   0.5% of 198.55KiB at  4.63KiB/s ETA 00:42[download]   1.5% of 198.55KiB at 13.85KiB/s ETA 00:14[download]   3.5% of 198.55KiB at 32.28KiB/s ETA 00:05[download]   7.6% of 198.55KiB at 69.09KiB/s ETA 00:02[download]  15.6% of 198.55KiB at 55.84KiB/s ETA 00:03[download]  31.7% of 198.55KiB at 48.56KiB/s ETA 00:02[download]  53.4% of 198.55KiB at 44.56KiB/s ETA 00:02[download]  73.5% of 198.55KiB at 42.13KiB/s ETA 00:01[download]  92.0% of 198.55KiB at 43.44KiB/s ETA 00:00[download] 100.0% of 198.55KiB at 45.87KiB/s ETA 00:00[download] 100% of 198.55KiB in 00:04
+[ffmpeg] Destination: name2.mp3
+Deleting original file name2.webm (pass -k to keep)
