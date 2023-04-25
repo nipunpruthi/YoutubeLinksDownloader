@@ -1,6 +1,6 @@
-0001_BG_introduction_25.9.2022	https://www.youtube.com/watch?v=dwFOJlk1Lk
+0001_BG_introduction_25.9.2022	https://www.youtube.com/watch?v=dw-FOJlk1Lk
 0002_BG_preface_9.1.2023	https://www.youtube.com/watch?v=zkcrGjbx9Q8
-0003_BG_1.01_25.03.2023	https://www.youtube.com/watch?v=2n1Om8O8CI
+0003_BG_1.01_25.03.2023	https://www.youtube.com/watch?v=2n1Om8O8C-I
 0004_BG_1.03_28.03.2023	https://www.youtube.com/watch?v=8B9SADlaWRw
 0005_BG_1.04_29.03.2023	https://www.youtube.com/watch?v=PLOhVBwFXF0
 0006_BG_1.05_1.7_31.03.2023	https://www.youtube.com/watch?v=Ao6RpPdW8zI
