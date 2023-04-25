@@ -1,0 +1,10 @@
+url : name8.%(ext)s started, file name : https://youtu.be/vLQdCkVILpE
+url : name8.%(ext)s completed, file name : https://youtu.be/vLQdCkVILpE
+url :  started, file name : 
+url :  completed, file name : 
+Usage: youtube-dl [OPTIONS] URL [URL...]
+
+Usage: youtube-dl [OPTIONS] URL [URL...]
+youtube-dl: error: Cannot download a video and extract audio into the same file! Use "https://youtu.be/vLQdCkVILpE%(ext)s.%(ext)s" instead of "https://youtu.be/vLQdCkVILpE%(ext)s" as the output template
+
+youtube-dl: error: Cannot download a video and extract audio into the same file! Use "%(ext)s.%(ext)s" instead of "%(ext)s" as the output template
